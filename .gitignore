@@ -1,0 +1,11 @@
+target
+local.properties
+.idea
+*.iml
+run.sh
+*~
+config/config.yml
+.opsmanage
+
+
+
